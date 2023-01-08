@@ -14,7 +14,11 @@ public class ArrayListDemo {
 		list.add("manish");
 		list.add("subodh");
 		
-		System.out.println(list);
+		//System.out.println(list);
+		
+		for (String s : list) {
+			System.out.println(s);
+		}
 		System.out.println("subodh");
 		System.out.println("subodh");
 		System.out.println("subodh");
