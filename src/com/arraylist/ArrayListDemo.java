@@ -15,6 +15,11 @@ public class ArrayListDemo {
 		list.add("subodh");
 		
 		System.out.println(list);
+		System.out.println("subodh");
+		System.out.println("subodh");
+		System.out.println("subodh");
+		System.out.println("subodh");
+		
 	}
 
 }
