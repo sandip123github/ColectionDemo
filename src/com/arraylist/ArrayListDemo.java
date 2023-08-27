@@ -13,6 +13,7 @@ public class ArrayListDemo {
 		list.add("sandip");
 		list.add("manish");
 		list.add("subodh");
+		list.add("jj");
 		
 		//System.out.println(list);
 		
